@@ -1,7 +1,8 @@
 # js30_CSS-JS_Clock
 
 This is a 30-days javascript grinding
-2. Clock [https://ningh98.github.io/js30_CSS-JS_Clock/]
+js30 [https://github.com/ningh98/js30]  
+2. Clock [https://github.com/ningh98/js30_CSS-JS_Clock]
 
 ## Table of contents
 
@@ -20,7 +21,7 @@ This project creates a functional, analog clock using HTML, CSS, and JavaScript.
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot2.png)
 
 ### Links
 
